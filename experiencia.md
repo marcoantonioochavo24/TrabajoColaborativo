@@ -20,5 +20,5 @@
 ### 4. Merge de ramas
 - Se hizo un merge de la rama `gonzalo` hacia `main` sin conflictos:
   ```bash
-  git checkout main
-  git merge gonzalo
+  - git checkout main
+  - git merge gonzalo
